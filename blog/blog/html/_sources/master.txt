@@ -4,10 +4,6 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
-<<<<<<< Updated upstream
-   2014/06/09/june2
-=======
    2014/06/10/june3
->>>>>>> Stashed changes
    2014/06/09/hello_world
 
