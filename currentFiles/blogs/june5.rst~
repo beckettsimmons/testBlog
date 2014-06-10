@@ -1,0 +1,6 @@
+Thursday June 5th
+===================
+
+Today just continuing trying to get the python 3 enviorment going. Ben helped me get the VS2010 installed. But it seems not to have the dreaded *vcvarsal.bat* file...
+
+Ok, so I am have figured out that the VS2010 I have installed is really *Visual Studios Team Explorer 10.0*. This by default does not include the oh so necessary *vcvarsal.bat*... After checking a page such as `this <http://stackoverflow.com/questions/2817869/error-unable-to-find-vcvarsall-bat?rq=1>`_ I see that I need to be using *Visual C++ 2008 Express Edition* 
