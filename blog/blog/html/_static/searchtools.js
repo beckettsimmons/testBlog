@@ -316,7 +316,11 @@ var Search = {
    */
   query : function(query) {
     var i;
+<<<<<<< Updated upstream
     var stopwords = ["a","and","are","as","at","be","but","by","for","if","in","into","is","it","near","no","not","of","on","or","such","that","the","their","then","there","these","they","this","to","was","will","with"];
+=======
+    var stopwords = ["into","this","there","at","if","no","near","or","not","such","with","by","then","of","it","their","to","the","these","are","be","is","but","they","in","as","was","and","a","on","for","that","will"];
+>>>>>>> Stashed changes
 
     // stem the searchterms and add them to the correct list
     var stemmer = new Stemmer();
